@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+input {
+  font-size: large;
+  border-radius: 25px;
+  padding: 8px;
+}
