@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+.input-here{
+  padding: 10px;
+}
 input {
   font-size: large;
   border-radius: 25px;
